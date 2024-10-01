@@ -12,7 +12,6 @@
 </p> 
 
 - 👨‍💻 CS student at Faculty of Science, Ain Shams University
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 
 
 ### Connect with Me :
