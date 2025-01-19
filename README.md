@@ -103,6 +103,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohamed-ahmad2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ahmad2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍ Random Dev Quote
