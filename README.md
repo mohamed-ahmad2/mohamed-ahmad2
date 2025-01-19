@@ -19,7 +19,10 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discord.gg/KpBQ8zYg" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+</a>
+
 </div>
 
 
@@ -35,6 +38,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
@@ -52,6 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+ 
 </div>
 
 <br>
@@ -71,6 +78,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
   <img width="12" />
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="30" alt="java logo" />
+  </a>
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="30" alt="php logo"  />
@@ -91,8 +101,28 @@
 <br>
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-ahmad2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-ahmad2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohamed-ahmad2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ahmad2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mohamed-ahmad2&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mohamed-ahmad2&icon=0&color=0)](https://visitcount.itsvg.in)
+
+###
+
+![First GIF](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b761155dtuwcq3b57vaflr5tc2n1ohun1o0p3fjlj3fvg&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+---
+
+![Second GIF](https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b761155dtuwcq3b57vaflr5tc2n1ohun1o0p3fjlj3fvg&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+---
+
+![Third GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTk4ZDVpeGN1dzlmODVhbmZrbXBtZ255NzhrdWtrZ21paGNkaHVhdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UYzSmRaDu5eVpbvZqw/giphy.gif)
+
